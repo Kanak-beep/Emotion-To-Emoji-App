@@ -1,0 +1,26 @@
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+  
+  .emoji{
+    font-size: 48px;
+  }
+  
+  .label{
+    font-size: 14px;
+    text-col
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  
+  .emotion_name{
+    font-size: 42px;
+  }
+  
+  body{
+    color: white;
+    background-color: #03A9F4;
+  }
